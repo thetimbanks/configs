@@ -1,5 +1,4 @@
 alias ll="ls -al"
-alias rnldev="ssh root@tbanks.rednovalabs.net"
 
 # Git autocompletion
 if [ -f ~/.git-completion.bash ]; then
